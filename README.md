@@ -36,4 +36,7 @@ pip:
     to use google's finance api to get real-time stock prices. Please look [here](https://stackoverflow.com/questions/5081710/how-to-create-a-stock-quote-fetching-app-in-python) for 
     examples on how to use this module.
 
+## How to run
+To run your python program use the following command:
+```python stock_trader.py```
 
